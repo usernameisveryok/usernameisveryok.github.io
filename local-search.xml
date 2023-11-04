@@ -27,7 +27,7 @@
     <link href="/2023/09/12/tcp-ip-protocols/"/>
     <url>/2023/09/12/tcp-ip-protocols/</url>
     
-    <content type="html"><![CDATA[<p>网络协议的实现：分层体系结构<br>互联网络的目标之一是对应用隐藏所有关于物理布局（拓扑）和低层协议的异构性的细<br>节。</p>]]></content>
+    <content type="html"><![CDATA[<p>网络协议的实现：分层体系结构<br>互联网络的目标之一是对应用隐藏所有关于物理布局（拓扑）和低层协议的异构性的细<br>节。<br>icmp 3,4 linux系统（路由器）收到这个保温之后，将检查tcp端口号以及ip</p>]]></content>
     
     
     
