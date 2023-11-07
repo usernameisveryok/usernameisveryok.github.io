@@ -23,55 +23,17 @@
   
   
   <entry>
-    <title>tcp/ip_protocols</title>
-    <link href="/2023/09/12/tcp-ip-protocols/"/>
-    <url>/2023/09/12/tcp-ip-protocols/</url>
-    
-    <content type="html"><![CDATA[<p>网络协议的实现：分层体系结构<br>互联网络的目标之一是对应用隐藏所有关于物理布局（拓扑）和低层协议的异构性的细<br>节。<br>icmp 3,4 linux系统（路由器）收到这个保温之后，将检查tcp端口号以及ip</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>计算机网络 tcpip协议栈</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>保研记录</title>
     <link href="/2023/09/11/%E4%BF%9D%E7%A0%94%E8%AE%B0%E5%BD%95/"/>
     <url>/2023/09/11/%E4%BF%9D%E7%A0%94%E8%AE%B0%E5%BD%95/</url>
     
-    <content type="html"><![CDATA[<h1 id="保研记录帖"><a href="#保研记录帖" class="headerlink" title="保研记录帖"></a>保研记录帖</h1><p>随着清华预推免系统显示出<strong>初步录取</strong>的时候，可能我的保研就已经基本上结束了，后面就等待928填写系统了。</p><h2 id="本人bg"><a href="#本人bg" class="headerlink" title="本人bg"></a>本人bg</h2><p>京内某211，网安相关专业。rk 1/34。无国奖，水赛若干。</p><h2 id="清华保研流程"><a href="#清华保研流程" class="headerlink" title="清华保研流程"></a>清华保研流程</h2><h3 id="critical-step"><a href="#critical-step" class="headerlink" title="critical step"></a>critical step</h3><p>我从大三一开学就联系了一个老师，经过面试之后，加入实验室开展科研工作，最后顺利留在老师的实验室中。</p><h3 id="夏令营"><a href="#夏令营" class="headerlink" title="夏令营"></a>夏令营</h3><p>仅有机试。机试很难，5！dfs暴力枚举+大模拟（卡卡颂）+较难算法题（忘记了），大部分人打了100分。125分即可免机试进入九推直博（对硕士无效）。</p><h3 id="九推"><a href="#九推" class="headerlink" title="九推"></a>九推</h3><p>包括机试，综合面试，专业面试。分别占20% 5% 75%。机试比夏令营简单，但本fw因为时间安排不当，仍旧只打了100。综合面相当轻松，中文自我介绍加上朗读一段英文文献。因为本人网安背景，恰巧抽到网安相关的文段，当时我笑称文段是“为我准备的”。面试氛围较为轻松。专业面试占比较大，决定了能否被录取，首先进行自我ppt介绍后，由老师提问专业问题。没有提难为我的问题，最后也是顺利通过。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="保研记录帖"><a href="#保研记录帖" class="headerlink" title="保研记录帖"></a>保研记录帖</h1><p>随着清华预推免系统显示出<strong>初步录取</strong>的时候，可能我的保研就已经基本上结束了，后面就等待 928 填写系统了。</p><h2 id="本人-bg"><a href="#本人-bg" class="headerlink" title="本人 bg"></a>本人 bg</h2><p>京内某 211，网安相关专业。rk 1/34。无国奖，水赛若干。</p><h2 id="清华保研流程"><a href="#清华保研流程" class="headerlink" title="清华保研流程"></a>清华保研流程</h2><h3 id="critical-step"><a href="#critical-step" class="headerlink" title="critical step"></a>critical step</h3><p>我从大三一开学就联系了一个老师，经过面试之后，加入实验室开展科研工作，最后顺利留在老师的实验室中。</p><h3 id="夏令营"><a href="#夏令营" class="headerlink" title="夏令营"></a>夏令营</h3><p>仅有机试。机试很难，5！dfs 暴力枚举+大模拟（卡卡颂）+较难算法题（忘记了），大部分人打了 100 分。125 分即可免机试进入九推直博（对硕士无效）。</p><h3 id="九推"><a href="#九推" class="headerlink" title="九推"></a>九推</h3><p>包括机试，综合面试，专业面试。分别占 20% 5% 75%。机试比夏令营简单。综合面相当轻松，中文自我介绍加上朗读一段英文文献。因为本人网安背景，恰巧抽到网安相关的文段，当时我笑称文段是“为我准备的”。面试氛围较为轻松。专业面试占比较大，决定了能否被录取，首先进行自我 ppt 介绍后，由老师提问专业问题。没有提难为我的问题，最后也是顺利通过。</p><h3 id="录取情况"><a href="#录取情况" class="headerlink" title="录取情况"></a>录取情况</h3><p>外校共录取八人</p>]]></content>
     
     
     
     <tags>
       
       <tag>保研</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>最近的生活</title>
-    <link href="/2023/04/15/%E6%9C%80%E8%BF%91%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
-    <url>/2023/04/15/%E6%9C%80%E8%BF%91%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
-    
-    <content type="html"><![CDATA[<h1 id="大创答辩-答辩大创"><a href="#大创答辩-答辩大创" class="headerlink" title="大创答辩 答辩大创"></a>大创答辩 答辩大创</h1><h2 id="不的"><a href="#不的" class="headerlink" title="不的"></a>不的</h2><p>公式测试</p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>c</mi><mo>=</mo><mo>±</mo><msqrt><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></msqrt></mrow><annotation encoding="application/x-tex">c = \pm\sqrt{a^2 + b^2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">c</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.04em;vertical-align:-0.12661100000000003em;"></span><span class="mord">±</span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.913389em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord"><span class="mord mathnormal">b</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span><span style="top:-2.873389em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429c69,-144,104.5,-217.7,106.5,-221l0 -0c5.3,-9.3,12,-14,20,-14H400000v40H845.2724s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47zM834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.12661100000000003em;"><span></span></span></span></span></span></span></span></span><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.985ex;" xmlns="http://www.w3.org/2000/svg" width="4.653ex" height="2.942ex" role="img" focusable="false" viewBox="0 -864.9 2056.8 1300.3" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="MJX-1-TEX-N-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path id="MJX-1-TEX-I-1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path><path id="MJX-1-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path id="MJX-1-TEX-N-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mfrac"><g data-mml-node="mn" transform="translate(851.6,394) scale(0.707)"><use data-c="31" xlink:href="#MJX-1-TEX-N-31"></use></g><g data-mml-node="mrow" transform="translate(220,-377.4) scale(0.707)"><g data-mml-node="msup"><g data-mml-node="mi"><use data-c="1D465" xlink:href="#MJX-1-TEX-I-1D465"></use></g><g data-mml-node="mn" transform="translate(605,289) scale(0.707)"><use data-c="32" xlink:href="#MJX-1-TEX-N-32"></use></g></g><g data-mml-node="mo" transform="translate(1008.6,0)"><use data-c="2212" xlink:href="#MJX-1-TEX-N-2212"></use></g><g data-mml-node="mn" transform="translate(1786.6,0)"><use data-c="31" xlink:href="#MJX-1-TEX-N-31"></use></g></g><rect width="1816.8" height="60" x="120" y="220"></rect></g></g></g></svg></mjx-container><figure class="highlight llvm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs llvm">int <span class="hljs-keyword">x</span> <span class="hljs-operator">=</span> <span class="hljs-number">1</span><span class="hljs-comment">;</span><br><span class="hljs-keyword">x</span>++<span class="hljs-comment">;</span><br></code></pre></td></tr></table></figure><p><img src="/img/hacker.png"></p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>misc</tag>
       
     </tags>
     
