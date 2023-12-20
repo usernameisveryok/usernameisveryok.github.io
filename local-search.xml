@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Openwrt+Virtualbox组网教程</title>
+    <link href="/2023/12/20/Openwrt-Virtualbox%E9%85%8D%E7%BD%AE/"/>
+    <url>/2023/12/20/Openwrt-Virtualbox%E9%85%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<p>最近在尝试本地完全虚拟化一个网络用来做测试，主要参考 openwrt 的文档进行配置<br>以下是踩的几个坑</p><ul><li>virtualbox 采用 hostonly adapter 便于宿主机使用 ssh 连接各个子网中的虚拟机，子网 ip 配置为 x.x.x.2</li><li>第一个 adaper 为 lan，第二个接口为 wan，这样对于网关路由器，只需要修改 lan 的 ip 地址为子网地址:.1 即可</li><li>对应主机加入子网，直接连接对应适配器即可。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>虚拟化 网络安全 openwrt</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>消息处理函数</title>
     <link href="/2023/11/08/%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0/"/>
     <url>/2023/11/08/%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0/</url>
